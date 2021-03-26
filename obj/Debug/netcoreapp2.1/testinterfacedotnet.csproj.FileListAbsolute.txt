@@ -1,0 +1,11 @@
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/bin/Debug/netcoreapp2.1/testinterfacedotnet.deps.json
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/bin/Debug/netcoreapp2.1/testinterfacedotnet.runtimeconfig.json
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/bin/Debug/netcoreapp2.1/testinterfacedotnet.runtimeconfig.dev.json
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/bin/Debug/netcoreapp2.1/testinterfacedotnet.dll
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/bin/Debug/netcoreapp2.1/testinterfacedotnet.pdb
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.csprojAssemblyReference.cache
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.csproj.CoreCompileInputs.cache
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.AssemblyInfoInputs.cache
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.AssemblyInfo.cs
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.dll
+/Users/ibidgames2/Dropbox (Personal)/desarrollo/testinterfacedotnet/obj/Debug/netcoreapp2.1/testinterfacedotnet.pdb
